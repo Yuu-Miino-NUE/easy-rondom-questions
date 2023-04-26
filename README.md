@@ -2,7 +2,8 @@
 小学生向けの言語問題を CSV テーブルからランダム生成する
 
 # 技術
-基本的には ChatGPT に作ってもらいました．
+* 基本的には ChatGPT に作ってもらいました．
+* おしゃれな感じを出すために [Bootstrap5](https://getbootstrap.com/) も使いました．
 
 # デモ
 https://yuu-miino-nue.github.io/easy-rondom-questions/
