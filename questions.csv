@@ -1,0 +1,61 @@
+﻿id,grade,lang,type,word,answer
+1,1,en,translate,red,あかい
+2,1,en,translate,blue,あおい
+3,1,en,translate,black,くろい
+4,1,en,translate,white,しろい
+5,1,en,translate,bright,あかるい
+6,1,en,translate,dark,くらい
+7,1,en,translate,high,たかい
+8,1,en,translate,low,ひくい
+9,1,en,translate,big,おおきい
+10,1,en,translate,small,ちいさい
+11,1,ja,read,赤い,あかい
+12,1,en,translate,blue,青い
+13,1,ja,read,黒い,くろい
+14,1,en,translate,white,白い
+15,1,ja,read,明るい,あかるい
+16,1,en,translate,dark,暗い
+17,2,ja,read,学校,がっこう
+18,2,en,translate,desk,つくえ
+19,2,ja,read,家族,かぞく
+20,2,ja,read,友だち,ともだち
+21,2,en,translate,pencil,鉛筆
+22,2,en,translate,book,本
+23,2,ja,read,山,やま
+24,2,ja,read,海,うみ
+25,3,ja,read,部屋,へや
+26,3,ja,read,食べ物,たべもの
+27,3,en,translate,computer,コンピューター
+28,3,ja,read,映画,えいが
+29,3,ja,read,電車,でんしゃ
+30,3,en,translate,pen,ペン
+31,4,ja,read,花火,はなび
+32,4,en,translate,telephone,電話
+33,4,ja,read,料理,りょうり
+34,4,ja,read,野球,やきゅう
+35,4,en,translate,shoe,くつ
+36,4,ja,read,音楽,おんがく
+37,4,ja,read,天気,てんき
+38,4,en,translate,car,車
+39,5,ja,read,自転車,じてんしゃ
+40,5,en,translate,chair,いす
+41,5,ja,read,本屋,ほんや
+42,5,ja,read,動物園,どうぶつえん
+43,5,en,translate,watch,時計
+44,5,ja,read,駅,えき
+45,5,ja,read,公園,こうえん
+46,5,en,translate,umbrella,傘
+47,6,ja,read,卒業式,そつぎょうしき
+48,6,en,translate,movie theater,映画館
+49,6,ja,read,国, くに
+50,6,ja,read,宿題, しゅくだい
+51, 3, ja, read, 今日, きょう
+52, 2, en, translate, 鉛筆, pencil
+53, 4, ja, read, 家, いえ
+54, 1, en, translate, おはよう, Good morning
+55, 5, ja, read, 天気, てんき
+56, 6, zh, translate, 水果, くだもの
+57, 2, en, translate, 風船, balloon
+58, 4, zh, translate, 篮球, バスケットボール
+59, 3, en, translate, 火車, train
+60, 1, zh, translate, 你好, こんにちは
