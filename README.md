@@ -4,6 +4,9 @@
 # 技術
 基本的には ChatGPT に作ってもらいました．
 
+# デモ
+https://yuu-miino-nue.github.io/easy-rondom-questions/
+
 # 使い方
 1. ファイルを選択
 2. チェックボックスを調整
